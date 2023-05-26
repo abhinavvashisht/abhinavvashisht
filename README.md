@@ -1,6 +1,5 @@
 # Hi there! 👋 I'm Abhinav Vashishtha
 
-## Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=your-username)
 
 ## About Me
