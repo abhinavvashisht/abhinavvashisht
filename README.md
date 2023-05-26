@@ -5,7 +5,7 @@
 ## About Me
 I am a passionate full-stack Django developer with a strong foundation in web development. I have experience in designing and implementing robust, scalable, and user-friendly web applications. My expertise lies in both frontend and backend development, enabling me to create seamless and efficient digital experiences.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavvashisht)](https://github.com/abhinavvashisht/github-readme-stats)
 
 ## Skills
 - **Backend Development**: Django, Django REST Framework, Python
